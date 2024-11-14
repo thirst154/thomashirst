@@ -1,3 +1,7 @@
 export default function Home() {
-  return <h1>Thomas Hirst</h1>;
+  return (
+    <div className="mesh">
+      <h1 className="text-black">Thomas Hirst</h1>
+    </div>
+  );
 }
