@@ -13,7 +13,8 @@ export default function Home() {
             Thomas Hirst
           </h1>
           <ul className="flex gap-2 text-2xl tracking-tighter">
-            <li>Student</li>|<li>Software Engineer</li>
+            <li className="hover:border-b">Student</li>|
+            <li className="hover:border-b">Software Engineer</li>
           </ul>
         </div>
       </div>
